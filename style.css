@@ -30,7 +30,7 @@ body {
   border-radius: 10px;
   background-size: cover;
   background-position: center;
-  background-image: url("/icon/anime.jpg");
+  background-image: url("./icon/anime.jpg");
 }
 .box.hovered {
   border: 2px dashed #333;
